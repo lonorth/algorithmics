@@ -1,0 +1,1 @@
+add_lesson_exe(binary_search BinarySearch.cpp)
